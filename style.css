@@ -1,0 +1,49 @@
+.up{
+ 
+        background-color: black;
+        height: 36vh;
+        color: white;
+        font-size: 16px;
+        display: flex;  
+        justify-content: space-around;
+        align-items: center;
+    
+}
+
+.up{
+    cursor: pointer;
+}
+
+.up2{
+    margin-bottom: auto;
+    margin-top: 25px;
+}
+
+.up3{
+    margin-bottom: auto;
+    margin-top: 25px;
+}
+
+.up3 img{
+    width: 50px;
+}
+
+.down{
+    background-color: black;
+       height: 35px;
+        color: white;
+        font-size: 12px;
+        display: flex;  
+        justify-content: space-around;
+        align-items: center;
+        border-top: 1px solid white;
+}
+
+.downBrasil{
+    display: flex;
+
+}
+
+.downBrasil p{
+    padding-left: 15px;
+}
